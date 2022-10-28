@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "node server.js",
-    "build": "grunt dist",
+    "build": "grunt dist"
   },
   "devDependencies": {
     "prettier": "^2.7.1"
